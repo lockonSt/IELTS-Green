@@ -30,5 +30,9 @@
 28. avail vt. n.
 29. vernacular n. a.
 30. collate vt.
-31. 
+31. creep
+32. alignment
+33. sledge
+34. slippery
+35. hurdle
 
